@@ -1,0 +1,116 @@
+@media (max-width: 575.98px) { 
+    .search-input-btn-group {
+    margin-left: 0 !important;
+}
+.nav-li-item{
+    flex-direction: column !important;
+    padding-left: 2rem;
+}
+.search-bar{
+    width: 100% !important;
+}
+
+.header-heading {
+    font-weight: 700;
+    font-size: 1.5rem !important;
+}
+.search-input-btn-group {
+margin-left: 0 !important;
+width: 100% !important;
+}
+.form-control {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+.fa-magnifying-glass {
+    font-size: 1.2rem !important;
+    font-weight: 700;
+    padding-left: 1.7rem;
+    padding-top: 1.2rem !important;
+    padding-right: 0rem !important;
+}
+.input-group-text {
+    width: 23%;
+}
+.delivery-img{
+    width: 52% !important;
+}
+.delivery-para{
+    font-size: 1rem;
+}
+.price-section-header{
+    font-size: 1.1rem !important;
+
+}
+.price-section-header{
+    padding-right: 1rem;
+}
+.discount-div-words {
+    top: 1rem;
+    
+}
+.discount-item {
+    left: 5rem;
+    top: 1rem;
+    width: 42% !important;
+}
+.getnow-btn {
+    margin-left: 8rem;
+    width: 32%;
+    padding-bottom: 1rem !important;
+}
+.two-discount-section {
+    background: #EDEDED;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    /* padding-top: 4rem !important; */
+    padding-bottom: 4rem !important;
+}
+.catagories {
+    background: #EDEDED;
+    padding-left: 6rem !important;
+    padding-right: 6rem !important
+    ;
+}
+}
+@media (min-width: 576px) and  (max-width: 991.98px) { 
+    .nav-li-item{
+        flex-direction: column !important;
+        padding-left: 2rem;
+    }
+    .search-input-btn-group {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    .discount-item {
+        left: 2rem;
+        top: 5rem;
+    }
+    .discount-div-words {
+        top: -6rem;
+    }
+    .getnow-btn {
+        margin-left: 14rem;
+    }
+ }
+ @media (min-width: 992px) {
+    .nav-li-item {
+        flex-direction: row !important;
+        padding-left: 2rem;
+    }
+
+    .catagories {
+        background: #EDEDED;
+        padding-left:0 !important;
+        padding-right: 0 !important;
+    }
+}
+
+@media (min-width: 768px) {
+
+    .catagories {
+        background: #EDEDED;
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+}
